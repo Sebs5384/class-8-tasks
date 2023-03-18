@@ -67,7 +67,7 @@ section {
   flex-flow: column wrap;
   align-items: center;
   justify-content: center;
-  background: url("../img/confetis.svg") no-repeat center center;
+  background: url("confetis.svg") no-repeat center center;
 }
 .gift_top {
   z-index: 3;
